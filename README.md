@@ -6,7 +6,7 @@
 <br>
 <br>
 A simple Real-time chat application using Nodejs and Socket.io. Here users can create rooms and share the link with others to invite them.
-<b>Demo: </b> https://chatapp-in.herokuapp.com/
+
 <br>
 <h3>Pre-Requisites</h3>
 <ul>
